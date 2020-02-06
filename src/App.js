@@ -22,10 +22,10 @@ function App() {
     <div className="App">
       <Router>
         <Switch>
-          <Route path="/reactjs-training-github/edit/:id" exact component={CreatePost} />
-          <Route path="/reactjs-training-github/add" exact component={CreatePost} />
-          <Route path="/reactjs-training-github/:id" exact component={ViewPost} />
-          <Route path="/reactjs-training-github" exact component={PostsList} />
+          <Route path="/reactjs-training/edit/:id" exact component={CreatePost} />
+          <Route path="/reactjs-training/add" exact component={CreatePost} />
+          <Route path="/reactjs-training/:id" exact component={ViewPost} />
+          <Route path="/reactjs-training" exact component={PostsList} />
         </Switch>
       </Router>
     </div>
