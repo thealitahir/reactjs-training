@@ -87,7 +87,7 @@ class PostsList extends React.Component {
     return (
       <div className="main">
         <div className="container-1 logo">
-          <Link to="/">
+          <Link to="/reactjs-training">
             <img className="logo-img" src={Logo} alt="logo not found" />
           </Link>
         </div>

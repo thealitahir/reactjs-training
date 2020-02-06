@@ -64,7 +64,7 @@ export default class CreatePost extends React.Component {
     return (
       <div>
         <div className="logo-container">
-          <Link to="/">
+          <Link to="/reactjs-training">
             <img className="create-logo-img" src={Logo} alt="NBS logo" />
           </Link>
         </div>
@@ -117,7 +117,7 @@ export default class CreatePost extends React.Component {
         </form>
         <div className="back-div">
           <button variant="info" className="back-button">
-            <Link className="back-link" to="/">
+            <Link className="back-link" to="/reactjs-training">
               Back
             </Link>
           </button>

@@ -62,7 +62,7 @@ class ViewPost extends React.Component {
     return (
       <div className="main">
         <div className="view-logo-container">
-          <Link to="/">
+          <Link to="/reactjs-training">
             <img className="view-logo-img" src={Logo} alt="NBS logo" />
           </Link>
         </div>
@@ -78,7 +78,7 @@ class ViewPost extends React.Component {
         <div className="comment-container">{comments}</div>
         <div className="back-div">
           <button variant="info" className="back-button">
-            <Link className="back-link" to="/">
+            <Link className="back-link" to="/reactjs-training">
               Back
             </Link>
           </button>
