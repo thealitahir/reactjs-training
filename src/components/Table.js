@@ -47,7 +47,7 @@ export default class Table extends React.Component {
           <RenderRow key={index} data={row} keys={keys} />
           <td>
             {row.id !== "" && (
-              <Link className="links" to={`/edit/${row.id}`}>
+              <Link className="links" to={`/reactjs-training/edit/${row.id}`}>
                 <FontAwesomeIcon icon="edit" />
               </Link>
             )}
@@ -86,7 +86,7 @@ const RenderRow = props => {
   return props.keys.map((key, index) => (
     <td key={index}>
       {key === "title" && props.data[key] !== "" && (
-        <Link to={`/${props.data["id"]}`}>{props.data[key]}</Link>
+        <Link to={`/reactjs-training/${props.data["id"]}`}>{props.data[key]}</Link>
       )}
       {key !== "title" && key !== "id" && props.data[key] !== "" && (
         <span>{props.data[key]}</span>

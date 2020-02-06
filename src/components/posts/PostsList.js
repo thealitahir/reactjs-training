@@ -100,7 +100,7 @@ class PostsList extends React.Component {
             <h2>Posts</h2>
           </div>
           <div className="box-3">
-            <Link to="/add">
+            <Link to="/reactjs-training/add">
               <button className="add-btn">Add New</button>
             </Link>
           </div>
