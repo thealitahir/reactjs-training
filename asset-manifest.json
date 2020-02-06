@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reactjs-training/static/css/main.aff59d47.chunk.css",
-    "main.js": "/reactjs-training/static/js/main.7d9f171c.chunk.js",
-    "main.js.map": "/reactjs-training/static/js/main.7d9f171c.chunk.js.map",
+    "main.js": "/reactjs-training/static/js/main.c3b79feb.chunk.js",
+    "main.js.map": "/reactjs-training/static/js/main.c3b79feb.chunk.js.map",
     "runtime-main.js": "/reactjs-training/static/js/runtime-main.6837479c.js",
     "runtime-main.js.map": "/reactjs-training/static/js/runtime-main.6837479c.js.map",
     "static/js/2.ead099bf.chunk.js": "/reactjs-training/static/js/2.ead099bf.chunk.js",
     "static/js/2.ead099bf.chunk.js.map": "/reactjs-training/static/js/2.ead099bf.chunk.js.map",
     "index.html": "/reactjs-training/index.html",
-    "precache-manifest.9e98a61725a66400ef4eec53f5fc6cbc.js": "/reactjs-training/precache-manifest.9e98a61725a66400ef4eec53f5fc6cbc.js",
+    "precache-manifest.be21482e24498bd88e28bc5813f5a769.js": "/reactjs-training/precache-manifest.be21482e24498bd88e28bc5813f5a769.js",
     "service-worker.js": "/reactjs-training/service-worker.js",
     "static/css/main.aff59d47.chunk.css.map": "/reactjs-training/static/css/main.aff59d47.chunk.css.map",
     "static/js/2.ead099bf.chunk.js.LICENSE": "/reactjs-training/static/js/2.ead099bf.chunk.js.LICENSE",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.6837479c.js",
     "static/js/2.ead099bf.chunk.js",
     "static/css/main.aff59d47.chunk.css",
-    "static/js/main.7d9f171c.chunk.js"
+    "static/js/main.c3b79feb.chunk.js"
   ]
 }
