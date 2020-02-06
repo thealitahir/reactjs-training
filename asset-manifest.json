@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reactjs-training-github/static/css/main.aff59d47.chunk.css",
-    "main.js": "/reactjs-training-github/static/js/main.3ae33605.chunk.js",
-    "main.js.map": "/reactjs-training-github/static/js/main.3ae33605.chunk.js.map",
+    "main.js": "/reactjs-training-github/static/js/main.d12c3671.chunk.js",
+    "main.js.map": "/reactjs-training-github/static/js/main.d12c3671.chunk.js.map",
     "runtime-main.js": "/reactjs-training-github/static/js/runtime-main.814b7d7d.js",
     "runtime-main.js.map": "/reactjs-training-github/static/js/runtime-main.814b7d7d.js.map",
     "static/js/2.ead099bf.chunk.js": "/reactjs-training-github/static/js/2.ead099bf.chunk.js",
     "static/js/2.ead099bf.chunk.js.map": "/reactjs-training-github/static/js/2.ead099bf.chunk.js.map",
     "index.html": "/reactjs-training-github/index.html",
-    "precache-manifest.7ae591485cc5ed3adf4d6fedac25c1cf.js": "/reactjs-training-github/precache-manifest.7ae591485cc5ed3adf4d6fedac25c1cf.js",
+    "precache-manifest.b8ac9501fe660148f114e9111f267e3e.js": "/reactjs-training-github/precache-manifest.b8ac9501fe660148f114e9111f267e3e.js",
     "service-worker.js": "/reactjs-training-github/service-worker.js",
     "static/css/main.aff59d47.chunk.css.map": "/reactjs-training-github/static/css/main.aff59d47.chunk.css.map",
     "static/js/2.ead099bf.chunk.js.LICENSE": "/reactjs-training-github/static/js/2.ead099bf.chunk.js.LICENSE",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.814b7d7d.js",
     "static/js/2.ead099bf.chunk.js",
     "static/css/main.aff59d47.chunk.css",
-    "static/js/main.3ae33605.chunk.js"
+    "static/js/main.d12c3671.chunk.js"
   ]
 }
